@@ -24,7 +24,8 @@ A simple and elegant weather application that allows users to search for real-ti
 ## 📸 Screenshots
 
 !Weather App Screenshot  
-*(Optional: Add a screenshot of your app here)*
+(https://github.com/user-attachments/assets/c955fad9-1943-479b-a2d2-38bb505022a3)
+
 
 ## 📦 Installation
 
